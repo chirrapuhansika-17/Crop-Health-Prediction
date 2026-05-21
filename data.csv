@@ -1,0 +1,8 @@
+temperature,humidity,soil_moisture,pest_level,crop_health
+30,60,40,1,1
+35,70,30,2,0
+28,55,50,0,1
+40,80,20,2,0
+25,50,60,0,1
+32,65,35,1,1
+38,75,25,2,0
